@@ -24,7 +24,7 @@ const ContactForm = ({ formspreeEndpoint, budget }) => {
               autoComplete="name"
               className="form-input"
               name="name"
-              placeholder="NAME"
+              placeholder="22222"
               required
               type="text"
             />
